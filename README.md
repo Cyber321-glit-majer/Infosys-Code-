@@ -16,6 +16,7 @@ You have to find the sum of product of every sebsequence of of minimum and maxim
 
 Ex:
 3
+
 1 2 3
 
 **Output**
